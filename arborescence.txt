@@ -1,0 +1,20 @@
+.
+|-- arborescence.txt
+|-- assets
+|   |-- css
+|   |   `-- style.css
+|   |-- images
+|   |   |-- archive
+|   |   |   |-- banner.png
+|   |   |   `-- logo.png
+|   |   |-- banner.png
+|   |   `-- logo.png
+|   `-- js
+|       `-- script.js
+|-- fichier.txt
+|-- index.html
+`-- pages
+    |-- about.html
+    `-- contact.html
+
+6 directories, 11 files
